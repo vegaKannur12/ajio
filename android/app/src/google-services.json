@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534566220948",
+    "project_id": "ajio-dbaed",
+    "storage_bucket": "ajio-dbaed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534566220948:android:bf5e2d8b768caedda07081",
+        "android_client_info": {
+          "package_name": "com.example.ajioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534566220948-c7igq0p0hkvdkckfq90mghuv3c38i8vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNL7x-3jiA2eII2SP9DLaRd0EA3Sksxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534566220948-c7igq0p0hkvdkckfq90mghuv3c38i8vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
